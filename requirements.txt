@@ -7,3 +7,4 @@ seaborn
 plotly
 tensorflow_datasets
 jupyter
+opencv-python
